@@ -20,10 +20,10 @@ When you’re ready to deploy to production, running npm run build will create a
 [https://reactjs.org/docs/create-a-new-react-app.html](https://reactjs.org/docs/create-a-new-react-app.html)
 
 ## Project Structure
-Our main code lies in the src folder lets go and explore it.
-![image](https://user-images.githubusercontent.com/108209653/175810661-8c1312b3-b08c-43ea-a2b0-39ca0d0bb781.png)
+![175810661-8c1312b3-b08c-43ea-a2b0-39ca0d0bb781](https://user-images.githubusercontent.com/108209653/175812348-3e6f3e15-6759-49db-be8d-3361ea8c5c26.png)
 
-![image](https://user-images.githubusercontent.com/108209653/175811188-7b0c90de-6101-4cf1-a6a0-033464fa4ec4.png)
+Our main code lies in the src folder lets go and explore it.
+![175811188-7b0c90de-6101-4cf1-a6a0-033464fa4ec4](https://user-images.githubusercontent.com/108209653/175812391-3ef8efbe-ec38-4565-987e-b079b693ea13.png)
 
 ## Fetching API Path and Version
 
