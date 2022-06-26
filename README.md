@@ -20,6 +20,8 @@ When you’re ready to deploy to production, running npm run build will create a
 [https://reactjs.org/docs/create-a-new-react-app.html](https://reactjs.org/docs/create-a-new-react-app.html)
 
 ## Project Structure
+![image](https://user-images.githubusercontent.com/108209653/175810661-8c1312b3-b08c-43ea-a2b0-39ca0d0bb781.png)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
