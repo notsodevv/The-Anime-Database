@@ -21,7 +21,10 @@ When you’re ready to deploy to production, running npm run build will create a
 
 ## Project Structure
 ![image](https://user-images.githubusercontent.com/108209653/175810661-8c1312b3-b08c-43ea-a2b0-39ca0d0bb781.png)
-![image](https://user-images.githubusercontent.com/108209653/175810956-487df78e-5916-4281-826c-19ec4d592142.png)
+
+Our main code lies in the src folder lets go and explore it.
+![image](https://user-images.githubusercontent.com/108209653/175811188-7b0c90de-6101-4cf1-a6a0-033464fa4ec4.png)
+
 
 
 
