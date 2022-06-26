@@ -36,8 +36,53 @@ We will use the API to fetch the Anime by using Fetch with async/await:
 ![image](https://user-images.githubusercontent.com/108209653/175811745-b437f5bc-1100-4fbd-8a2b-6898632ab0f0.png)
 
 
+## How to Use Fetch with async/await
+
+The Fetch API accesses resources across the network. You can make HTTP requests (using GET, POST and other methods), download, and upload files.
+
+To start a request, call the special function fetch():
+```bash
+const response = await fetch(resource[, options]);
+```
+which accepts 2 arguments:
+
+*1. resource: the URL string, or a Request object*
+
+*2. options: the configuration object with properties like method, headers, body, credentials, and more.*
+
+fetch() starts a request and returns a promise. When the request completes, the promise is resolved with the Response object. If the request fails due to some network problems, the promise is rejected.
+
+async/await syntax fits great with fetch() because it simplifies the work with promises.
+
+For example, let's make a request to fetch some movies:
+```bash
+async function fetchMovies() {
+  const response = await fetch('/movies');
+  // waits until the request completes...
+  console.log(response);
+}
+```
 
 
+
+fetchMovies() is an asynchronous function since it's marked with the async keyword.
+
+await fetch('/movies') starts an HTTP request to '/movies' URL. Because the await keyword is present, the asynchronous function is paused until the request completes.
+
+When the request completes, response is assigned with the response object of the request. Let's see in the next section how to extract useful data, like JSON or plain text, from the response.
+
+
+
+
+## Visit this link to know more:
+1. Intro to fetch()  
+2. Fetching JSON
+3. Handling fetch errors
+4. Canceling a fetch request
+5. Parallel fetch requests
+6. Summary
+
+[https://dmitripavlutin.com/javascript-fetch-async-await/](https://dmitripavlutin.com/javascript-fetch-async-await/)
 
 
 ## Contributing
