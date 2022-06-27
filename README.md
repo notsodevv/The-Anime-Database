@@ -1,5 +1,7 @@
 # Build an ANIME Search Database in React JS with Jikan Anime API
 
+![11](https://user-images.githubusercontent.com/108209653/175992388-8e51bb23-5f03-4a03-847b-a05dc2ad5a4f.png)
+
 In this project, we will learn how to build an anime search database using the Jikan Anime API and React JS but more specifically, react hooks. We look into forms, fetching data, components and looping through arrays to display cards. We also utilize SCSS as our preprocessor.
 
 Project Demo
