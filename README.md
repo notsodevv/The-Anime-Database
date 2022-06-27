@@ -2,6 +2,9 @@
 
 In this project, we will learn how to build an anime search database using the Jikan Anime API and React JS but more specifically, react hooks. We look into forms, fetching data, components and looping through arrays to display cards. We also utilize SCSS as our preprocessor.
 
+Project Demo
+[https://the-anime-database-notsodevv.vercel.app/](https://the-anime-database-notsodevv.vercel.app/)
+
 ## Create React App
 
 Create React App is a comfortable environment for learning React, and is the best way to start building a new single-page application in React.
